@@ -1,0 +1,12 @@
+C:\Users\lynette\Desktop\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\bin\Debug\CodeChallengeCollections_lkastel1.exe.config
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\bin\Debug\CodeChallengeCollections_lkastel1.exe.config
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\bin\Debug\CodeChallengeCollections_lkastel1.exe
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\bin\Debug\CodeChallengeCollections_lkastel1.pdb
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\bin\Debug\CodeChallengeCollections_lkastel1.xml
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\CodeChallengeCollections_lkastel1.vbprojResolveAssemblyReference.cache
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\lkastel1_CodeChallengeCollections.Form1.resources
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\lkastel1_CodeChallengeCollections.Resources.resources
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\CodeChallengeCollections_lkastel1.vbproj.GenerateResource.Cache
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\CodeChallengeCollections_lkastel1.exe
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\CodeChallengeCollections_lkastel1.xml
+C:\Users\lynette\SkyDrive\NET apps\VS Apps\CodeChallengeCollections_lkastel1\CodeChallengeCollections_lkastel1\obj\Debug\CodeChallengeCollections_lkastel1.pdb
